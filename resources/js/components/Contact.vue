@@ -8,12 +8,12 @@
 		<v-container fluid class="px-5 mt-10 mb-2">
 			<v-row>
 				<v-col class="text-h6 font-weight-bolder" cols="12">
-					BeMo Academic Consulting Inc.
+					Academic Consulting Inc.
 				</v-col>
 				<v-col cols="12">
 					<span class="font-weight-bold text-decoration-underline">
 						Toll Free </span
-					>: 1-855-900-BeMo (2366)
+					>: 00-00-00-00
 				</v-col>
 				<v-col cols="12">
 					<span class="font-weight-bold text-decoration-underline"> Email </span
