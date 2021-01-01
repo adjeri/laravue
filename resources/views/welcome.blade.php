@@ -5,8 +5,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>FREE Ultimate Guide to CDA Interviews: Tips & Proven Strategies to Help You Prepare & Ace Your CDA
-            Structured Interview.</title>
+        <title>FREE Ultimate Guide.</title>
 
         <!-- Fonts -->
 
