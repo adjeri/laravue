@@ -21,7 +21,7 @@
 			<ul class="menu">
 				<li><router-link :to="'/'">Main</router-link></li>
 				<li><a href="#">How to prepare</a></li>
-				<li><a href="#">CDA Interview Questions</a></li>
+				<li><a href="#">Questions</a></li>
 				<li><router-link :to="'/contact'">Contact Us</router-link></li>
 				<li>
 					<router-link :to="'/panel/general-settings'">Panel</router-link>
